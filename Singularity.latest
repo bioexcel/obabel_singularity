@@ -1,0 +1,3 @@
+Bootstrap: docker
+From: obabel:latest
+Namespace: informaticsmatters
